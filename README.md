@@ -1,2 +1,2 @@
-# HGS
+# Company assignment
 This was a competetion
